@@ -1,7 +1,7 @@
 # SmartWizard
 A wizard vs. warrior demo game for reinforcement learning.
 
-![Alt text](https://github.com/bugtheta/SmartWizard/Screenshots/figure_0.png)
+![SmartWizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/figure_0.png)
 
 The red wizard is controlled by AI or Player and the blue warrior is hard-code, which will also rush for the wizard and use his sword to attack the wizard. The wizard has to keep running to keep distance from the warrior and find a chance to fight back with his adept fire ball magic.
 
@@ -12,11 +12,11 @@ The red wizard is controlled by AI or Player and the blue warrior is hard-code, 
 
 # Demo
 Aggressive wizard
-![Alt text](https://github.com/bugtheta/SmartWizard/Screenshots/aggressive_wizard.gif)
+![aggressive_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0aggressive_wizard.gif)
 
 
 Conservative wizard
-![Alt text](https://github.com/bugtheta/SmartWizard/Screenshots/conservative_wizard.gif)
+![conservative_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif)
 
 
 
