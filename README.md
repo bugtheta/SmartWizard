@@ -10,6 +10,7 @@ The red wizard is controlled by AI or Player and the blue warrior is hard-code, 
 2. Get punishment (negative reward) when being hurt.
 3. Get small reward when still alive.
 
+# Demo
 Aggressive wizard
 ![Alt text](https://github.com/bugtheta/SmartWizard/Screenshots/aggressive_wizard.gif)
 
