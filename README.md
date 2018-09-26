@@ -19,6 +19,6 @@ Conservative wizard
 ![conservative_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif)
 
 # Try the player mode game!
-## [Play](http://bugtheta.github.io).
+## [Play](https://bugtheta.github.io/SmartWizard/).
 
 
