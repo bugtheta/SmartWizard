@@ -1,5 +1,5 @@
 # SmartWizard
-A wizard vs. warrior demo game for reinforcement learning.
+A wizard vs. warrior demo game for reinforcement learning, using the Unity [ML-Agent](https://github.com/Unity-Technologies/ml-agents).
 
 ![SmartWizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/figure_0.png)
 
@@ -18,5 +18,7 @@ Aggressive wizard
 Conservative wizard
 ![conservative_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif)
 
+# Try the player mode game!
+## [Play](http://bugtheta.github.io).
 
 
