@@ -22,3 +22,9 @@ Conservative wizard
 ## [Play](https://bugtheta.github.io/SmartWizard/).
 
 
+# Sample 2: Avoid The Bombs!
+Another game. 
+This time the wizard is facing with the attacks from some future civilizations. Unfortunately his magic does not work for the high-tech aircraft. Just try to run away!
+![avoid_the_bombs](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0avoid_the_bombs.gif)
+
+
