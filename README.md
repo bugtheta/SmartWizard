@@ -1,7 +1,7 @@
 # SmartWizard
 A wizard vs. warrior demo game for reinforcement learning, using the Unity [ML-Agent](https://github.com/Unity-Technologies/ml-agents).
 
-![SmartWizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/figure_0.png)
+<img src="https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/figure_0.png" height="300">
 
 The red wizard is controlled by AI or Player and the blue warrior is hard-code, which will also rush for the wizard and use his sword to attack the wizard. The wizard has to keep running to keep distance from the warrior and find a chance to fight back with his adept fire ball magic.
 
@@ -11,12 +11,11 @@ The red wizard is controlled by AI or Player and the blue warrior is hard-code, 
 3. Get small reward when still alive.
 
 # Demo
-Aggressive wizard
-![aggressive_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0aggressive_wizard.gif)
 
+<img src="https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0aggressive_wizard.gif" height="200" title="Aggressive wizard"> <img src="https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif" height="200" title="Conservative wizard">
 
-Conservative wizard
-![conservative_wizard](https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif)
+Two different behaviors. the left one is aggressive. the right one is conservative.
+
 
 # Try the player mode game!
 ## [Play](https://bugtheta.github.io/SmartWizard/).
