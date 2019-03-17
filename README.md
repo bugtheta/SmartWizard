@@ -14,7 +14,7 @@ The red wizard is controlled by AI or Player and the blue warrior is hard-code, 
 
 <img src="https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0aggressive_wizard.gif" height="200" title="Aggressive wizard"> <img src="https://github.com/bugtheta/SmartWizard/blob/master/Screenshots/%C2%A0conservative_wizard.gif" height="200" title="Conservative wizard">
 
-Two different behaviors. the left one is aggressive. the right one is conservative.
+Two different behaviors of the wizard. the left one is aggressive. the right one is conservative.
 
 
 # Try the player mode game!
